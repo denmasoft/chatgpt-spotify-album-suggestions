@@ -87,6 +87,7 @@ This project provides a Node.js backend API that suggests Spotify albums based o
 The API will return an error object if there are any issues with the request or the interaction with ChatGPT.
 
 **Development**
+
 This project uses TypeScript for code safety and maintainability. You can use the following commands for development:
 
 npm run build: Compiles TypeScript code to JavaScript.
