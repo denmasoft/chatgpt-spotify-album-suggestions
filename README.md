@@ -91,8 +91,11 @@ The API will return an error object if there are any issues with the request or 
 This project uses TypeScript for code safety and maintainability. You can use the following commands for development:
 
 **npm run build**: Compiles TypeScript code to JavaScript.
+
 **npm run start**: Starts the server in production mode.
+
 **npm run dev**: Starts the server in development mode with automatic restart on file changes.
+
 **npm run test**: Runs unit tests (if implemented).
 
 **Contributing**
